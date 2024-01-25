@@ -15,7 +15,6 @@ const HomePage = () => {
           mr={20}
           display={{ base: "none", lg: "block" }}
           maxW={"300px"}
-          border={"1px solid red"}
         >
           {/* Suggested */}
           <SuggerstedUsers />
